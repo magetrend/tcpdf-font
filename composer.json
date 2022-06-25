@@ -1,0 +1,15 @@
+{
+    "name": "magetrend/tcpdf-font",
+    "autoload": {
+        "psr-4": {"Magetrend\\TcpdfFont\\":""},
+        "files": ["registration.php"]
+    },
+    "description": "Change fonts directory",
+    "type": "magento2-module",
+    "version": "1.0.0",
+    "support": {
+        "email": "info@magetrend.com",
+        "wiki": "https://www.magetrend.com",
+        "author": "Edvinas St"
+    }
+}
